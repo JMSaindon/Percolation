@@ -11,7 +11,7 @@ Encadrant : Laurent Simon
 
 ## Quickstart
 - modules nécessaires: pygame, numpy et matplotlib
-- dé-commenter la ligne correspondant à ce que vous voulez obtenir en bas du fichier `Percolation.py`: plot de graphique ou fenêtre pygame
+- dé-commentez la ligne correspondant à ce que vous voulez obtenir en bas du fichier `Percolation.py`: plot de graphique ou fenêtre pygame
 - Réglez la densité de la forêt avec la variable density également en bas du fichier `Percolation.py`
 - commande : `$ python Percolation.py`
 
