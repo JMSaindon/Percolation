@@ -1,4 +1,4 @@
-<img align="left" height="150" src=img/logotrans.png>
+<img align="left" height="100" src=img/logotrans.png>
 
 Le contenu de ce dépôt correspond à un rendu de TP dans le cadre de l'option IA enseignée à l'Enseirb-Matmeca. Cela vaut pour le module d'Intelligence distribuée / SMA. Le TP choisi porte sur les automates cellulaires et présente la Percolation sur feu de forêts (et en bonus le Jeu de la vie).   
 
