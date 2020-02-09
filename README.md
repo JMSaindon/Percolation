@@ -11,8 +11,8 @@ Encadrant : Laurent Simon
 
 ## Quickstart
 - modules nécessaires: pygame, numpy et matplotlib
-- dé-commentez la ligne correspondant à ce que vous voulez obtenir en bas du fichier `Percolation.py`: plot de graphique ou fenêtre pygame
-- Réglez la densité de la forêt avec la variable density également en bas du fichier `Percolation.py`
+- dé-commentez la ligne correspondant à ce que vous voulez obtenir en bas du fichier [Percolation.py](Percolation.py): plot de graphique ou fenêtre pygame
+- Réglez la densité de la forêt avec la variable density également en bas du fichier [Percolation.py](Percolation.py)
 - commande : `$ python Percolation.py`
 
 ## Description
@@ -51,7 +51,7 @@ L'incendie est lancé sur une grille de taille (153, 83) pour tous les tests. On
 ## Quickstart
 
 - modules nécessaires: pygame, numpy
-- Réglez la densité de vie initiale avec la variable LifeDensity en bas du fichier `GameOfLife.py`
+- Réglez la densité de vie initiale avec la variable LifeDensity en bas du fichier [GameOfLife.py](GameOfLife.py)
 - commande : `$ python GameOfLife.py`
 
 ## Description
