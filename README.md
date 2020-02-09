@@ -66,4 +66,6 @@ Le jeu de la vie est également implémenté en Python avec pygame et suis le m�
   <img width="650" src=img/GameOfLife.PNG>
 </p>
 
+---
 
+09/02/2020
